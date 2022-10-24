@@ -579,7 +579,7 @@ namespace BK_PCR
             this.ucMenu1.Name = "ucMenu1";
             this.ucMenu1.ParentItemStyles = null;
             this.ucMenu1.ParentItemType = typeof(HZH_Controls.Controls.UCMenuParentItem);
-            this.ucMenu1.Size = new System.Drawing.Size(125, 1229);
+            this.ucMenu1.Size = new System.Drawing.Size(131, 1229);
             this.ucMenu1.TabIndex = 5;
             // 
             // PCR
