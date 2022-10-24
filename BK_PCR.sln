@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BK_PCR", "BK_PCR.csproj", "{58DFBBA9-FAD2-4E18-A1EA-99EE65868274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DFBBA9-FAD2-4E18-A1EA-99EE65868274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DFBBA9-FAD2-4E18-A1EA-99EE65868274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DFBBA9-FAD2-4E18-A1EA-99EE65868274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DFBBA9-FAD2-4E18-A1EA-99EE65868274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26F49B42-E3D5-48ED-ADAA-C20BE3587F6D}
+	EndGlobalSection
+EndGlobal
